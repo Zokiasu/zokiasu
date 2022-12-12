@@ -63,7 +63,6 @@ I am a freelance frontend developer specializing in Vue.JS/Nuxt.JS. I am current
 
 ## Stats
 <p>
-  &nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=zokiasu&show_icons=true&locale=en" alt="zokiasu" />
 </p>
 
