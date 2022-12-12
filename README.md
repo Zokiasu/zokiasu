@@ -7,7 +7,9 @@ I am a freelance frontend developer specializing in Vue.JS/Nuxt.JS. I am current
 
 
 ## 🛠 Skills
-<p>
+<p
+  style="display: flex; justify-content: space-between; align-items: center;"
+>
 
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
@@ -62,10 +64,10 @@ I am a freelance frontend developer specializing in Vue.JS/Nuxt.JS. I am current
 
 
 ## Stats
-<p>
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=zokiasu&show_icons=true&locale=en" alt="zokiasu" />
 </p>
 
-<p>
+<p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zokiasu&" alt="zokiasu" />
 </p>
