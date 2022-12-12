@@ -59,8 +59,14 @@ I am a freelance frontend developer specializing in Vue.JS/Nuxt.JS. I am current
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://zokiasu.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pierrick-taily/)
+<p align="center">
+  <a href="https://zokiasu.com/#contact">
+    <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/pierrick-taily/">
+    <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 
 ## Stats
