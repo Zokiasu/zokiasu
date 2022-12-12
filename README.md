@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I am a freelance frontend developer specializing in Vue.JS/Nuxt.JS. I am currently available for new missions.
+I am a french front-end developer specializing in VueJS/NuxtJS. I'm available as a freelancer for new missions.
 
 
 ## 🛠 Skills
