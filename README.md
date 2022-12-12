@@ -66,6 +66,9 @@ I am a freelance frontend developer specializing in Vue.JS/Nuxt.JS. I am current
   <a href="https://www.linkedin.com/in/pierrick-taily/">
     <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  <a href="https://www.malt.fr/profile/zokiasu">
+    <img src="https://img.shields.io/badge/Pierrick%20Ta%C3%AFly-Malt-orange"/>
+  </a>
 </p>
 
 
