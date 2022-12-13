@@ -74,9 +74,9 @@ I am a french front-end developer specializing in VueJS/NuxtJS. I'm available as
 
 ## Stats
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zokiasu&show_icons=true&locale=en" alt="zokiasu" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zokiasu&show_icons=true&locale=en&theme=dark&hide_border=true&bg_color=15202B" alt="zokiasu" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zokiasu&" alt="zokiasu" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zokiasu&theme=dark&hide_border=true&background=15202B" alt="zokiasu" />
 </p>
