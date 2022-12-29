@@ -1,64 +1,13 @@
+## 🚀 Introduction
 
-# Hi, I'm Pierrick! 👋
-
-
-## 🚀 About Me
 I am a french front-end developer specializing in VueJS/NuxtJS. I'm available as a freelancer for new missions.
 
 
-## 🛠 Skills
-<p
-  style="display: flex; justify-content: space-between; align-items: center;"
->
-
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
-  </a>
-
-  <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/>
-  </a>
-
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a>
-
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-  </a>
-
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-
-  <a href="https://graphql.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
-  </a>
-
-  <a href="https://jestjs.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
-  </a>
-
-</p>
-
-
 ## 🔗 Links
+[![LinkedIn](https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pierrick-taily/)
+[![Malt](https://img.shields.io/badge/malt-FC5757.svg?style=for-the-badge&logo=malt&logoColor=white)](https://www.malt.fr/profile/zokiasu)
+[![Portfolio](https://img.shields.io/badge/portfolio-000.svg?style=for-the-badge&logo=ko-fi&logoColor=white)](https://zokiasu.com/#contact)
+
 <p align="center">
   <a href="https://zokiasu.com/#contact">
     <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white"/>
@@ -71,12 +20,55 @@ I am a french front-end developer specializing in VueJS/NuxtJS. I'm available as
   </a>
 </p>
 
+## 🛠 Skills
+
+### ⭐ Languages & Runtimes
+
+![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![NodeJS](https://img.shields.io/badge/nodejs-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### ⚖️ Frameworks
+
+![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vue](https://img.shields.io/badge/vuejs-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Material UI](https://img.shields.io/badge/material%20ui-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/chakra%20ui-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Flutter](https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+### ☁️ Cloud Services
+
+![Firebase Authentication](https://img.shields.io/badge/authentication-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Firebase Firestore](https://img.shields.io/badge/firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Firebase RealtimeDB](https://img.shields.io/badge/realtimedb-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Firebase Functions](https://img.shields.io/badge/functions-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Heroku](https://img.shields.io/badge/heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+
+### 🔧 Development Environment
+
+![Arch Linux](https://img.shields.io/badge/arch%20linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Windows 11](https://img.shields.io/badge/windows%2011-0078D4?style=for-the-badge&logo=windows-11&logoColor=white)
+![VSCode Insiders](https://img.shields.io/badge/visual%20studio%20code%20insiders-1FC0A7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Yarn](https://img.shields.io/badge/yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
+![GitHub Desktop](https://img.shields.io/badge/github%20desktop-6A2288?style=for-the-badge&logo=github&logoColor=white)
+![GitKraken](https://img.shields.io/badge/gitkraken-179287?style=for-the-badge&logo=gitkraken&logoColor=white)
+![Notion](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ## Stats
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zokiasu&show_icons=true&locale=en&theme=dark&hide_border=true&bg_color=15202B" alt="zokiasu" />
-</p>
 
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zokiasu&theme=dark&hide_border=true&background=15202B" alt="zokiasu" />
-</p>
+<div align="center">
+  <img width="49.7%" height="100%" src="https://github-readme-stats.vercel.app/api?username=zokiasu&show_icons=true&locale=en&theme=dark&hide_border=true&bg_color=15202B" alt="zokiasu" />
+  <img width="49.7%" height="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=zokiasu&theme=dark&hide_border=true&background=15202B" alt="zokiasu" />
+</div>
