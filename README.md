@@ -1,12 +1,25 @@
 ## 🚀 Introduction
 
 I am a french front-end developer specializing in VueJS/NuxtJS. I'm available as a freelancer for new missions.
-
+![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)
 
 ## 🔗 Links
 [![LinkedIn](https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pierrick-taily/)
 [![Malt](https://img.shields.io/badge/malt-FC5757.svg?style=for-the-badge&logo=malt&logoColor=white)](https://www.malt.fr/profile/zokiasu)
 [![Portfolio](https://img.shields.io/badge/portfolio-000.svg?style=for-the-badge&logo=ko-fi&logoColor=white)](https://zokiasu.com/#contact)
+
+
+## Stats
+
+<div align="center">
+  <img 
+  width="49.7%" 
+  height="100%" 
+  src="https://github-readme-stats.vercel.app/api?username=zokiasu
+  alt="zokiasu" 
+  />
+  <img width="49.7%" height="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=zokiasu" alt="zokiasu" />
+</div>
 
 ## 🛠 Skills
 
@@ -53,10 +66,3 @@ I am a french front-end developer specializing in VueJS/NuxtJS. I'm available as
 ![GitKraken](https://img.shields.io/badge/gitkraken-179287?style=for-the-badge&logo=gitkraken&logoColor=white)
 ![Notion](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-## Stats
-
-<div align="center">
-  <img width="49.7%" height="100%" src="https://github-readme-stats.vercel.app/api?username=zokiasu&show_icons=true&locale=en&theme=dark&hide_border=true&bg_color=15202B" alt="zokiasu" />
-  <img width="49.7%" height="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=zokiasu&theme=dark&hide_border=true&background=15202B" alt="zokiasu" />
-</div>
