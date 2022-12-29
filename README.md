@@ -8,18 +8,6 @@ I am a french front-end developer specializing in VueJS/NuxtJS. I'm available as
 [![Malt](https://img.shields.io/badge/malt-FC5757.svg?style=for-the-badge&logo=malt&logoColor=white)](https://www.malt.fr/profile/zokiasu)
 [![Portfolio](https://img.shields.io/badge/portfolio-000.svg?style=for-the-badge&logo=ko-fi&logoColor=white)](https://zokiasu.com/#contact)
 
-<p align="center">
-  <a href="https://zokiasu.com/#contact">
-    <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/pierrick-taily/">
-    <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.malt.fr/profile/zokiasu">
-    <img src="https://img.shields.io/static/v1?label=&message=Malt&color=FC5757&style=for-the-badge"/>
-  </a>
-</p>
-
 ## 🛠 Skills
 
 ### ⭐ Languages & Runtimes
