@@ -1,7 +1,6 @@
 ## 🚀 Introduction
 
 I am a french front-end developer specializing in VueJS/NuxtJS. I'm available as a freelancer for new missions.
-![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)
 
 ## 🔗 Links
 [![LinkedIn](https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pierrick-taily/)
@@ -15,9 +14,8 @@ I am a french front-end developer specializing in VueJS/NuxtJS. I'm available as
   <img 
   width="49.7%" 
   height="100%" 
-  src="https://github-readme-stats.vercel.app/api?username=zokiasu
-  alt="zokiasu" 
-  />
+  src="https://github-readme-stats.vercel.app/api?username=zokiasu"
+  alt="zokiasu" />
   <img width="49.7%" height="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=zokiasu" alt="zokiasu" />
 </div>
 
