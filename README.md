@@ -25,7 +25,7 @@ I am a french front-end developer specializing in VueJS/NuxtJS. I'm available as
   <img width="49.7%" height="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=zokiasu" alt="zokiasu" />
 </div>
 
-## 🔗 Links
+## 🔗 Find me there
 [![LinkedIn](https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pierrick-taily/)
 [![Malt](https://img.shields.io/badge/malt-FC5757.svg?style=for-the-badge&logo=malt&logoColor=white)](https://www.malt.fr/profile/zokiasu)
 [![Portfolio](https://img.shields.io/badge/portfolio-000.svg?style=for-the-badge&logo=ko-fi&logoColor=white)](https://zokiasu.com/#contact)
