@@ -29,5 +29,4 @@ I am a french front-end developer specializing in VueJS/NuxtJS. I'm available as
 [![LinkedIn](https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pierrick-taily/)
 [![Malt](https://img.shields.io/badge/malt-FC5757.svg?style=for-the-badge&logo=malt&logoColor=white)](https://www.malt.fr/profile/zokiasu)
 [![Portfolio](https://img.shields.io/badge/portfolio-000.svg?style=for-the-badge&logo=ko-fi&logoColor=white)](https://zokiasu.com/#contact)
-
 [![pierrick.tly@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pierrick.tly@gmail.com)
